@@ -1,12 +1,9 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        ans = []
-        k = 0
-        for i in range(len(nums)):
-            for j in nums:
-                if nums[i] > j:
-                    k += 1
-            ans.append(k)
-            k = 0
-        return ans
-        
+        sorted_nums = sorted(nums)
+        lugat = {}
+        for i, num in enumerate(sorted_nums):
+            if num not in lugat:
+                lugat[num] = i
+        javob = [lugat[num] for num in nums]
+        return javob
