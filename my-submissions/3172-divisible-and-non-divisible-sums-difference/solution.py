@@ -1,11 +1,11 @@
 class Solution:
     def differenceOfSums(self, n: int, m: int) -> int:
-        bolinadi = 0
-        bolinmaydi = 0
-        while n != 0:
-            if n % m == 0:
-                bolinadi += n
+        bolinadi = []
+        bolinmaydi = []
+        for i in range(1, n + 1):
+            if i % m == 0:
+                bolinadi.append(i)
             else:
-                bolinmaydi += n
-            n -= 1
-        return bolinmaydi - bolinadi
+                bolinmaydi.append(i)
+        return sum(bolinmaydi) - sum(bolinadi)
+
