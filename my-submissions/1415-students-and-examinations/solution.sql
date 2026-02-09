@@ -14,4 +14,3 @@ GROUP BY st.student_id,
     s.subject_name
 ORDER BY st.student_id,
     s.subject_name;
-
