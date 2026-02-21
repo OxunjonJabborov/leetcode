@@ -4,7 +4,6 @@ public:
      if(x < 0) return false;
      string s = to_string(x);
      reverse(s.begin(), s.end());
-     if(s == to_string(x)) return true;
-     else return false;
+     return s == to_string(x);
     }
 };
