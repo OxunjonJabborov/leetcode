@@ -51,4 +51,4 @@ Total number of matches = 7 + 3 + 2 + 1 = 13.
 
 ---
 
-**My Solution:** [1688-Count-of-Matches-in-Tournament.py](./1688-Count-of-Matches-in-Tournament.py)
+**My Solution:** [1688-Count-of-Matches-in-Tournament.cpp](./1688-Count-of-Matches-in-Tournament.cpp)
