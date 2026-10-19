@@ -44,4 +44,4 @@
 
 ---
 
-**My Solution:** [1470-Shuffle-the-Array.cpp](./1470-Shuffle-the-Array.cpp)
+**My Solution:** [1470-Shuffle-the-Array.py](./1470-Shuffle-the-Array.py)
