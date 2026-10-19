@@ -45,4 +45,4 @@
 
 ---
 
-**My Solution:** [1512-Number-of-Good-Pairs.py](./1512-Number-of-Good-Pairs.py)
+**My Solution:** [1512-Number-of-Good-Pairs.cpp](./1512-Number-of-Good-Pairs.cpp)
