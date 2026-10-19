@@ -1,7 +1,9 @@
-class Solution:
-    def stableMountains(self, height: List[int], threshold: int) -> List[int]:
-        barqaror = []
-        for i in range(1, len(height)):
-            if height[i - 1] > threshold:
-                barqaror.append(i)
-        return barqaror
+class Solution {
+public:
+    vector<int> stableMountains(vector<int>& height, int threshold) {
+       vector<int> barqaror;
+       for(int i = 1; i < height.size(); ++i)
+        if(height[i - 1] > threshold) barqaror.push_back(i);
+       return barqaror;
+    }
+};
