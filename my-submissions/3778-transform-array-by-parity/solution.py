@@ -1,9 +1,4 @@
 class Solution:
     def transformArray(self, nums: List[int]) -> List[int]:
-        for i in range(len(nums)):
-            if nums[i] % 2 == 0:
-                nums[i] = 0
-            else:
-                nums[i] = 1
-        nums.sort()
-        return nums
+        odds = sum(i % 2 for i in nums)
+        return [0] * (len(nums) - odds) + [1] * odds
