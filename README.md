@@ -18,6 +18,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/OxunjonJabborov/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/OxunjonJabborov/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/OxunjonJabborov/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
