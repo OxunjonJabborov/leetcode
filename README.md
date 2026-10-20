@@ -26,6 +26,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/OxunjonJabborov/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/OxunjonJabborov/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -72,6 +73,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -104,4 +106,8 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/OxunjonJabborov/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
