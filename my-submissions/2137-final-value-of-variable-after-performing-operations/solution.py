@@ -1,10 +1,3 @@
 class Solution:
-    def finalValueAfterOperations(self, operations: List[str]) -> int:
-        m = 0
-        n = 0
-        for i in operations:
-            if "+" in i:
-                m += 1
-            elif "-" in i:
-                n -= 1
-        return m + n
+    def finalValueAfterOperations(self, operations: list[str]) -> int:
+        return sum(1 if "+" in i else -1 for i in operations)
