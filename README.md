@@ -10,6 +10,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OxunjonJabborov/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -32,6 +33,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | ------- |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [3146-permutation-difference-between-two-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
