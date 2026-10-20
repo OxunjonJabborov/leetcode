@@ -1,12 +1,4 @@
-# 2011. Final Value of Variable After Performing Operations
-
-🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
-
-**Topics:** Array, String, Simulation
-
----
-
-<p>There is a programming language with only <strong>four</strong> operations and <strong>one</strong> variable <code>X</code>:</p>
+<h2><a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations">2137. Final Value of Variable After Performing Operations</a></h2><h3>Easy</h3><hr><p>There is a programming language with only <strong>four</strong> operations and <strong>one</strong> variable <code>X</code>:</p>
 
 <ul>
 	<li><code>++X</code> and <code>X++</code> <strong>increments</strong> the value of the variable <code>X</code> by <code>1</code>.</li>
@@ -62,8 +54,3 @@ X--: X is decremented by 1, X = 1 - 1 = 0.
 	<li><code>1 &lt;= operations.length &lt;= 100</code></li>
 	<li><code>operations[i]</code> will be either <code>&quot;++X&quot;</code>, <code>&quot;X++&quot;</code>, <code>&quot;--X&quot;</code>, or <code>&quot;X--&quot;</code>.</li>
 </ul>
-
-
----
-
-**My Solution:** [2011-Final-Value-of-Variable-After-Performing-Operations.py](./2011-Final-Value-of-Variable-After-Performing-Operations.py)
