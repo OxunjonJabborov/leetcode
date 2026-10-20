@@ -39,6 +39,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/OxunjonJabborov/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/OxunjonJabborov/leetcode/tree/master/3340-check-balanced-string) |
 ## Simulation
 |  |
 | ------- |
