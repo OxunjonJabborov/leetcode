@@ -11,6 +11,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/OxunjonJabborov/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -48,6 +49,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting
 |  |
 | ------- |
@@ -76,4 +78,9 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/OxunjonJabborov/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
