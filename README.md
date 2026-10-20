@@ -6,6 +6,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Array
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -14,5 +15,6 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
