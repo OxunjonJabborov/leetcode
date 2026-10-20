@@ -31,6 +31,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0709-to-lower-case](https://github.com/OxunjonJabborov/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -49,6 +50,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/OxunjonJabborov/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -70,6 +72,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -129,4 +132,8 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
