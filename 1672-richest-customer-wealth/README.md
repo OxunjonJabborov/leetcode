@@ -53,4 +53,4 @@ The 2nd customer is the richest with a wealth of 10.</pre>
 
 ---
 
-**My Solution:** [1672-Richest-Customer-Wealth.py](./1672-Richest-Customer-Wealth.py)
+**My Solution:** [1672-Richest-Customer-Wealth.cpp](./1672-Richest-Customer-Wealth.cpp)
