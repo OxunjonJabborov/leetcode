@@ -22,6 +22,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [3162-find-the-number-of-good-pairs-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/OxunjonJabborov/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/OxunjonJabborov/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
 | ------- |
