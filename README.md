@@ -19,6 +19,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/OxunjonJabborov/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/OxunjonJabborov/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/OxunjonJabborov/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/OxunjonJabborov/leetcode/tree/master/2974-minimum-number-game) |
@@ -118,6 +119,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/OxunjonJabborov/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/OxunjonJabborov/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
