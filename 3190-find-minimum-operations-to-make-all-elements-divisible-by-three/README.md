@@ -48,4 +48,4 @@
 
 ---
 
-**My Solution:** [3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three.cpp](./3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three.cpp)
+**My Solution:** [3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three.py](./3190-Find-Minimum-Operations-to-Make-All-Elements-Divisible-by-Three.py)
