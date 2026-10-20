@@ -26,6 +26,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0709-to-lower-case](https://github.com/OxunjonJabborov/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -51,6 +52,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OxunjonJabborov/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -59,6 +61,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
