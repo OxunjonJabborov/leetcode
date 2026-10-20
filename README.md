@@ -7,6 +7,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/OxunjonJabborov/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/OxunjonJabborov/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OxunjonJabborov/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/OxunjonJabborov/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -32,6 +33,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/OxunjonJabborov/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
