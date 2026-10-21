@@ -49,6 +49,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/OxunjonJabborov/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/OxunjonJabborov/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/OxunjonJabborov/leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -73,6 +74,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OxunjonJabborov/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2325-decode-the-message](https://github.com/OxunjonJabborov/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/OxunjonJabborov/leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
