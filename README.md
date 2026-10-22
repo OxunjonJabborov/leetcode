@@ -118,6 +118,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/OxunjonJabborov/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
