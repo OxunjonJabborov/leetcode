@@ -31,6 +31,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/OxunjonJabborov/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3668-restore-finishing-order](https://github.com/OxunjonJabborov/leetcode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [3162-find-the-number-of-good-pairs-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OxunjonJabborov/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/OxunjonJabborov/leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
