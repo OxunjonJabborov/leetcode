@@ -7,6 +7,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/OxunjonJabborov/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/OxunjonJabborov/leetcode/tree/master/0014-longest-common-prefix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/OxunjonJabborov/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/OxunjonJabborov/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OxunjonJabborov/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -36,6 +37,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/OxunjonJabborov/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0709-to-lower-case](https://github.com/OxunjonJabborov/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
@@ -163,4 +165,8 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/OxunjonJabborov/leetcode/tree/master/2413-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/OxunjonJabborov/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
