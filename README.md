@@ -11,6 +11,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/OxunjonJabborov/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/OxunjonJabborov/leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/OxunjonJabborov/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OxunjonJabborov/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -107,6 +108,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/OxunjonJabborov/leetcode/tree/master/2235-add-two-integers) |
