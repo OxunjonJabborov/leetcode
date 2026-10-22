@@ -44,6 +44,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/OxunjonJabborov/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0709-to-lower-case](https://github.com/OxunjonJabborov/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
@@ -133,6 +134,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -176,6 +178,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
