@@ -58,6 +58,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0058-length-of-last-word](https://github.com/OxunjonJabborov/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/OxunjonJabborov/leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/OxunjonJabborov/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -140,6 +141,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting
@@ -155,6 +157,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/OxunjonJabborov/leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OxunjonJabborov/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
