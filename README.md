@@ -13,6 +13,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/OxunjonJabborov/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/OxunjonJabborov/leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/OxunjonJabborov/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OxunjonJabborov/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -215,6 +216,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0136-single-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
