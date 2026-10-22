@@ -93,6 +93,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OxunjonJabborov/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OxunjonJabborov/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -112,6 +113,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/OxunjonJabborov/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/OxunjonJabborov/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -212,4 +214,8 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/OxunjonJabborov/leetcode/tree/master/0175-combine-two-tables) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
