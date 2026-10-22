@@ -13,6 +13,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/OxunjonJabborov/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/OxunjonJabborov/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/OxunjonJabborov/leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/OxunjonJabborov/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -284,6 +285,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OxunjonJabborov/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/OxunjonJabborov/leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
