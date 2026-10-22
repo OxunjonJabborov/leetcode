@@ -57,6 +57,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/OxunjonJabborov/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/OxunjonJabborov/leetcode/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/OxunjonJabborov/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/OxunjonJabborov/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -153,6 +154,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/OxunjonJabborov/leetcode/tree/master/0125-valid-palindrome) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OxunjonJabborov/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
