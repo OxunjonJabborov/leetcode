@@ -33,6 +33,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/OxunjonJabborov/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/OxunjonJabborov/leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/OxunjonJabborov/leetcode/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -103,6 +104,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/OxunjonJabborov/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/OxunjonJabborov/leetcode/tree/master/3516-find-closest-person) |
 ## Greedy
 |  |
