@@ -112,6 +112,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/OxunjonJabborov/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0263-ugly-number) |
@@ -239,4 +240,8 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/OxunjonJabborov/leetcode/tree/master/0938-range-sum-of-bst) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/OxunjonJabborov/leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
