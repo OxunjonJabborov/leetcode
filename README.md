@@ -13,6 +13,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/OxunjonJabborov/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OxunjonJabborov/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0136-single-number) |
@@ -159,6 +160,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OxunjonJabborov/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/OxunjonJabborov/leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -191,6 +193,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OxunjonJabborov/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/OxunjonJabborov/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/OxunjonJabborov/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
