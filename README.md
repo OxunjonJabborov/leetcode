@@ -113,6 +113,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/OxunjonJabborov/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/OxunjonJabborov/leetcode/tree/master/2235-add-two-integers) |
