@@ -27,6 +27,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2574-left-and-right-sum-differences](https://github.com/OxunjonJabborov/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/OxunjonJabborov/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/OxunjonJabborov/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/OxunjonJabborov/leetcode/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OxunjonJabborov/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -55,6 +56,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2325-decode-the-message](https://github.com/OxunjonJabborov/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/OxunjonJabborov/leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2942-find-words-containing-character](https://github.com/OxunjonJabborov/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/3280-convert-date-to-binary) |
