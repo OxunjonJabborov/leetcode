@@ -1,12 +1,4 @@
-# 3285. Find Indices of Stable Mountains
-
-🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-indices-of-stable-mountains/)
-
-**Topics:** Array
-
----
-
-<p>There are <code>n</code> mountains in a row, and each mountain has a height. You are given an integer array <code>height</code> where <code>height[i]</code> represents the height of mountain <code>i</code>, and an integer <code>threshold</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-indices-of-stable-mountains">3582. Find Indices of Stable Mountains</a></h2><h3>Easy</h3><hr><p>There are <code>n</code> mountains in a row, and each mountain has a height. You are given an integer array <code>height</code> where <code>height[i]</code> represents the height of mountain <code>i</code>, and an integer <code>threshold</code>.</p>
 
 <p>A mountain is called <strong>stable</strong> if the mountain just before it (<strong>if it exists</strong>) has a height <strong>strictly greater</strong> than <code>threshold</code>. <strong>Note</strong> that mountain 0 is <strong>not</strong> stable.</p>
 
@@ -52,8 +44,3 @@
 	<li><code>1 &lt;= height[i] &lt;= 100</code></li>
 	<li><code>1 &lt;= threshold &lt;= 100</code></li>
 </ul>
-
-
----
-
-**My Solution:** [3285-Find-Indices-of-Stable-Mountains.py](./3285-Find-Indices-of-Stable-Mountains.py)
