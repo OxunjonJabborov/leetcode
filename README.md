@@ -119,6 +119,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0060-permutation-sequence](https://github.com/OxunjonJabborov/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/OxunjonJabborov/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/OxunjonJabborov/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/OxunjonJabborov/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -165,6 +166,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/OxunjonJabborov/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/OxunjonJabborov/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/OxunjonJabborov/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/OxunjonJabborov/leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OxunjonJabborov/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -265,4 +267,8 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/OxunjonJabborov/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
