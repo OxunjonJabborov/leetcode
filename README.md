@@ -6,6 +6,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OxunjonJabborov/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/OxunjonJabborov/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/OxunjonJabborov/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -94,6 +95,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OxunjonJabborov/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/OxunjonJabborov/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
