@@ -16,6 +16,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [1572-matrix-diagonal-sum](https://github.com/OxunjonJabborov/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/OxunjonJabborov/leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OxunjonJabborov/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/OxunjonJabborov/leetcode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/OxunjonJabborov/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OxunjonJabborov/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -50,6 +51,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [1528-shuffle-string](https://github.com/OxunjonJabborov/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/OxunjonJabborov/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/OxunjonJabborov/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/OxunjonJabborov/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OxunjonJabborov/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -82,6 +84,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | ------- |
 | [0013-roman-to-integer](https://github.com/OxunjonJabborov/leetcode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/OxunjonJabborov/leetcode/tree/master/0771-jewels-and-stones) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OxunjonJabborov/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/OxunjonJabborov/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/OxunjonJabborov/leetcode/tree/master/2418-sort-the-people) |
@@ -115,6 +118,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OxunjonJabborov/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -168,6 +172,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/0067-add-binary) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
