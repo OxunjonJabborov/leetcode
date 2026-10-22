@@ -17,6 +17,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0118-pascals-triangle](https://github.com/OxunjonJabborov/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/OxunjonJabborov/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OxunjonJabborov/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/OxunjonJabborov/leetcode/tree/master/0704-binary-search) |
 | [1313-decompress-run-length-encoded-list](https://github.com/OxunjonJabborov/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OxunjonJabborov/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -162,6 +163,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/OxunjonJabborov/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/OxunjonJabborov/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OxunjonJabborov/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/OxunjonJabborov/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/OxunjonJabborov/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -179,6 +181,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [0004-median-of-two-sorted-arrays](https://github.com/OxunjonJabborov/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/OxunjonJabborov/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/OxunjonJabborov/leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OxunjonJabborov/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/OxunjonJabborov/leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OxunjonJabborov/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
