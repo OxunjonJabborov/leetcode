@@ -55,6 +55,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2325-decode-the-message](https://github.com/OxunjonJabborov/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/OxunjonJabborov/leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/OxunjonJabborov/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3110-score-of-a-string](https://github.com/OxunjonJabborov/leetcode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/OxunjonJabborov/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/OxunjonJabborov/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/OxunjonJabborov/leetcode/tree/master/3340-check-balanced-string) |
