@@ -30,6 +30,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OxunjonJabborov/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/OxunjonJabborov/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/OxunjonJabborov/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/OxunjonJabborov/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/OxunjonJabborov/leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/OxunjonJabborov/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/OxunjonJabborov/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -195,6 +196,7 @@ This repository is managed by LeetPush extension: https://github.com/LeetPushExt
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/OxunjonJabborov/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/OxunjonJabborov/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
